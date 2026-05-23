@@ -50,9 +50,9 @@ Saya seorang developer yang suka membuat web aesthetic, project kreatif, dan pen
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zxkky&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zxkky&show_icons=true&theme=radical" height="180"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxkky&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxkky&layout=compact&theme=radical" height="180"/>
 </p>
 
 ---
@@ -60,9 +60,8 @@ Saya seorang developer yang suka membuat web aesthetic, project kreatif, dan pen
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=zxkky&theme=tokyonight&hide_border=true&border_radius=15"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zxkky&theme=radical"/>
 </p>
-
 ---
 
 # 🏆 GitHub Trophies
