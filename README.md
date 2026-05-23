@@ -47,6 +47,44 @@ Saya seorang developer yang suka membuat web aesthetic dan project kreatif.
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+# 🚀 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zxkky&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxkky&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=zxkky&theme=tokyonight&hide_border=true&border_radius=15"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zxkky&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/zxkky">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/zxkkyy">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://wopsie.com">
+    <img src="https://img.shields.io/badge/Wopsie-FF4D8D?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+</p>
