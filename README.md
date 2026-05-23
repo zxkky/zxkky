@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 Saya seorang developer yang suka membuat web aesthetic dan project kreatif.
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF4D8D&center=true&vCenter=true&width=900&lines=Fullstack+Developer;Founder+of+Wopsie;Building+Creative+Digital+Experiences;Turning+Ideas+Into+Real+Products;Code.+Create.+Innovate.)](https://git.io/typing-svg)
 ---
 
 # 💻 Tech Stack
