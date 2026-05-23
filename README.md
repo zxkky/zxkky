@@ -1,9 +1,15 @@
 # 👋 Hello World!
 
 ## 💫 About Me
-Saya seorang developer yang suka membuat web aesthetic dan project kreatif.
+Saya seorang developer yang suka membuat web aesthetic, project kreatif, dan pengalaman digital yang interaktif.
+
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF4D8D&center=true&vCenter=true&width=900&lines=Fullstack+Developer;Founder+of+Wopsie;Building+Creative+Digital+Experiences;Turning+Ideas+Into+Real+Products;Code.+Create.+Innovate.)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF4D8D&center=true&vCenter=true&width=900&lines=Fullstack+Developer;Founder+of+Wopsie;Building+Creative+Digital+Experiences;Turning+Ideas+Into+Real+Products;Code.+Create.+Innovate."/>
+</p>
+
+---
 
 # 💻 Tech Stack
 
@@ -16,9 +22,9 @@ Saya seorang developer yang suka membuat web aesthetic dan project kreatif.
 ![Go](https://img.shields.io/badge/GOLANG-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/NEXTJS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node JS](https://img.shields.io/badge/NODEJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express JS](https://img.shields.io/badge/EXPRESSJS-000000?style=for-the-badge&logo=express&logoColor=white)
+![NextJS](https://img.shields.io/badge/NEXTJS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NODEJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/EXPRESSJS-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Gin](https://img.shields.io/badge/GIN-008ECF?style=for-the-badge&logo=go&logoColor=white)
 
 ![TailwindCSS](https://img.shields.io/badge/TAILWINDCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -37,21 +43,15 @@ Saya seorang developer yang suka membuat web aesthetic dan project kreatif.
 
 ![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-## 🌐 Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/username)
+![VSCode](https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
-
-# 🚀 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zxkky&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
-  
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxkky&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
 </p>
 
@@ -80,11 +80,11 @@ Saya seorang developer yang suka membuat web aesthetic dan project kreatif.
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://instagram.com/zxkkyy">
+  <a href="https://instagram.com/delt_aky">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-  <a href="https://wopsie.com">
+  <a href="https://dev.wopsie.my.id/">
     <img src="https://img.shields.io/badge/Wopsie-FF4D8D?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
